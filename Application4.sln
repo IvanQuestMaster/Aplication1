@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{1B19158F-E398-40A6-8E3B-350508E125F1}") = "Application4.Shared", "Application4.Shared\Application4.Shared.dxjsproj", "{23E93090-51A5-4775-8E19-EF3C9AB8DCFC}"
+EndProject
+Project("{1B19158F-E398-40A6-8E3B-350508E125F1}") = "Application4.Mobile", "Application4.Mobile\Application4.Mobile.dxjsproj", "{8CCAAE1C-5843-4790-BF22-C2002351D7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E93090-51A5-4775-8E19-EF3C9AB8DCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E93090-51A5-4775-8E19-EF3C9AB8DCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E93090-51A5-4775-8E19-EF3C9AB8DCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E93090-51A5-4775-8E19-EF3C9AB8DCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCAAE1C-5843-4790-BF22-C2002351D7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCAAE1C-5843-4790-BF22-C2002351D7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCAAE1C-5843-4790-BF22-C2002351D7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCAAE1C-5843-4790-BF22-C2002351D7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
